@@ -177,7 +177,7 @@ Simulation validates:
 
 > Add the EPWave simulation screenshot here.
 
-![Waveform](waveforms/epwave_simulation.png)
+![Waveform](waveforms/simulation_output.jpeg)
 
 ---
 
