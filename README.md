@@ -50,19 +50,19 @@ The project was developed to understand processor architecture, RTL design, data
 
 # 🖼 Architecture Overview
 
-![Architecture](diagrams/architecture_overview.png)
+![Architecture](diagrams/architecture_overview.jpeg)
 
 ---
 
 # 📊 Processor Datapath
 
-![Datapath](diagrams/processor_datapath.png)
+![Datapath](diagrams/processor_datapath.jpeg)
 
 ---
 
 # 🧩 Processor Block Diagram
 
-![Block Diagram](diagrams/processor_blockdiagram.png)
+![Block Diagram](diagrams/processor_blockdiagram.jpeg)
 
 ---
 
