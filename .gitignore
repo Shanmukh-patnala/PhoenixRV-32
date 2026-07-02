@@ -1,0 +1,19 @@
+# Simulation Outputs
+*.vcd
+*.vvp
+*.out
+a.out
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Editor Files
+.vscode/
+
+# Operating System Files
+Thumbs.db
+.DS_Store
