@@ -209,12 +209,22 @@ docs/PhoenixRV-32_Project_Report.pdf
 
 # 👨‍💻 Author
 
-**Shanmukh Patnala**
+## Patnala Leela Shanmukh Yagneek
 
-Bachelor of Technology (Electronics and Communication Engineering)
+Bachelor of Technology (B.Tech)  
+Electronics and Communication Engineering (VLSI)
 
 Independent RTL & Processor Design Project
 
+GitHub: https://github.com/Shanmukh-patnala
+LinkedIn: https://www.linkedin.com/in/<your-linkedin-username>
+
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Feedback, suggestions, and contributions are always welcome.
